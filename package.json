@@ -1,7 +1,7 @@
 {
   "name": "wheatherapp",
   "version": "0.1.0",
-  "homepage": "https://neilavitan.github.io/Weather",
+  "homepage": "https://neilavitan.github.io/Neil-Avitan-09-06-2023",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
